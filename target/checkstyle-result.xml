@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="C:\Users\hes4\Documents\workspace-sts-3.6.4.RELEASE\OAuthServer\src\main\java\com\upmc\fhirpoc\oauth\controller\RestController.java">
+<error line="4" severity="warning" message="&apos;package&apos; should be separated from previous statement." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="15" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\hes4\Documents\workspace-sts-3.6.4.RELEASE\OAuthServer\src\main\java\com\upmc\fhirpoc\oauth\controller\User.java">
+<error line="4" severity="warning" message="&apos;package&apos; should be separated from previous statement." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+</checkstyle>
